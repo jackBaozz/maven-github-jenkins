@@ -18,7 +18,7 @@ public class Application {
     @RequestMapping("/")
     @ResponseBody
     public String index() {
-        return "Hello World! \t 你好大熊";
+        return "Hello World! \t 你好大熊,嘿嘿嘿";
     }
 
 }
