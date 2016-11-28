@@ -1,4 +1,4 @@
-package main.java.com.bzz;
+package com.bzz;
 
 /**
  * Hello world!

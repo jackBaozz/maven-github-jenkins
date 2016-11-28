@@ -1,4 +1,4 @@
-package test.java.com.bzz;
+package com.bzz;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
